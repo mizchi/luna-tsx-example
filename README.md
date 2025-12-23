@@ -1,40 +1,40 @@
 # luna-tsx-example
 
-`@mizchi/luna` を使ったリアクティブ UI のサンプルプロジェクトです。
+A sample project demonstrating reactive UI with `@mizchi/luna`.
 
-## セットアップ
+## Setup
 
 ```bash
 pnpm install
 ```
 
-## 開発
+## Development
 
 ```bash
 pnpm dev
 ```
 
-## ビルド
+## Build
 
 ```bash
 pnpm build
 ```
 
-## プレビュー
+## Preview
 
 ```bash
 pnpm preview
 ```
 
-## 機能
+## Features
 
-このサンプルには以下のコンポーネントが含まれています：
+This example includes the following components:
 
-- **Counter**: シグナルとメモを使ったカウンターの例
-- **TodoApp**: `For` と `Show` コンポーネントを使った Todo リストの例
+- **Counter**: Demonstrates signals and memos for reactive state
+- **TodoApp**: Shows usage of `For` and `Show` components for list rendering
 
-## 技術スタック
+## Tech Stack
 
-- [Luna](https://github.com/user/luna) - リアクティブ UI ライブラリ
-- [Vite](https://vitejs.dev/) - ビルドツール
-- [TypeScript](https://www.typescriptlang.org/) - 型システム
+- [Luna](https://github.com/user/luna) - Reactive UI library
+- [Vite](https://vitejs.dev/) - Build tool
+- [TypeScript](https://www.typescriptlang.org/) - Type system
