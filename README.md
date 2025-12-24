@@ -1,6 +1,6 @@
 # luna-tsx-example
 
-A sample project demonstrating reactive UI with `@mizchi/luna`.
+A sample project demonstrating reactive UI with `@luna_ui/luna`.
 
 ## Setup
 
